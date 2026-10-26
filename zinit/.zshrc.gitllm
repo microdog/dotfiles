@@ -9,7 +9,7 @@
 # But - just read and edit the code however you like
 # the `llm` CLI util is awesome, can get it here: https://llm.datasette.io/en/stable/
 
-GITLLM_MODEL_ID="${GITLLM_MODEL_ID:-deepseek-v4-pro}"
+GITLLM_MODEL_ID="${GITLLM_MODEL_ID:-deepseek-flash}"
 GITLLM_KEY="${GITLLM_KEY:-deepseek}"
 GITLLM_MAX_TOKENS="${GITLLM_MAX_TOKENS:-50}"
 GITLLM_TEMPERATURE="${GITLLM_TEMPERATURE:-0}"
